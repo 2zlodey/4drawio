@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T13:35:05.758Z" agent="5.0 (X11)" etag="gyEyk_EPE_xbIao1CT3J" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T21:53:36.357Z" agent="5.0 (X11)" etag="ol1M7xlFrM02PbuzQV1i" version="14.1.9" type="github">
   <diagram id="mcO6ZigHnyqXAEx7TMtv" name="Page-1">
-    <mxGraphModel dx="1344" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2967" dy="1366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,16 +76,16 @@
           <mxGeometry x="448" y="978" width="110" height="111" as="geometry" />
         </mxCell>
         <mxCell id="oB4PZzZaA_dl373bwpy4-12" value="laser" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="930" width="40" height="20" as="geometry" />
+          <mxGeometry x="730" y="930.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oB4PZzZaA_dl373bwpy4-13" value="&lt;div&gt;milexis&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="930" width="50" height="20" as="geometry" />
+        <mxCell id="oB4PZzZaA_dl373bwpy4-13" value="&lt;div&gt;melexis&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="930" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oB4PZzZaA_dl373bwpy4-14" value="IR sensor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="930" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oB4PZzZaA_dl373bwpy4-15" value="Ultrsonic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="930" width="60" height="20" as="geometry" />
+        <mxCell id="oB4PZzZaA_dl373bwpy4-15" value="Ultrasonic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="930" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oB4PZzZaA_dl373bwpy4-18" value="" style="verticalLabelPosition=bottom;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.sensor;" vertex="1" parent="1">
           <mxGeometry x="-201" y="984.5" width="110" height="110" as="geometry" />
@@ -489,8 +489,8 @@
         <mxCell id="oB4PZzZaA_dl373bwpy4-101" value="&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;+5VDC&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-295" y="902.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oB4PZzZaA_dl373bwpy4-102" value="Ultrsonic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="938.5" width="60" height="20" as="geometry" />
+        <mxCell id="oB4PZzZaA_dl373bwpy4-102" value="Ultrаsonic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="938.5" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oB4PZzZaA_dl373bwpy4-103" value="&lt;font style=&quot;font-size: 8px&quot;&gt;GND&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-265" y="902.5" width="30" height="20" as="geometry" />
@@ -501,8 +501,8 @@
         <mxCell id="oB4PZzZaA_dl373bwpy4-106" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="-196" y="904" width="100" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="oB4PZzZaA_dl373bwpy4-107" value="&lt;div&gt;milexis&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-176" y="937" width="50" height="20" as="geometry" />
+        <mxCell id="oB4PZzZaA_dl373bwpy4-107" value="&lt;div&gt;mеlexis&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-181" y="937" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oB4PZzZaA_dl373bwpy4-108" value="&lt;font style=&quot;font-size: 8px&quot;&gt;GND&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-121" y="907" width="30" height="20" as="geometry" />
