@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T10:17:52.161Z" agent="5.0 (X11)" etag="dLBGc8xGNwvX9Ic_Zlbq" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-06T18:11:16.023Z" agent="5.0 (X11)" etag="GQFrj6CD_jh7oNiSWtEx" version="14.3.1" type="github">
   <diagram id="6uRCD1hZW86757JnJUN3" name="Page-1">
-    <mxGraphModel dx="2072" dy="1428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2590" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DoQxJISchDC_hIf_xZmJ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DoQxJISchDC_hIf_xZmJ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="190" width="420" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="DoQxJISchDC_hIf_xZmJ-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.user_female;" vertex="1" parent="1">
+        <mxCell id="DoQxJISchDC_hIf_xZmJ-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.user_female;" parent="1" vertex="1">
           <mxGeometry x="170" y="420" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DoQxJISchDC_hIf_xZmJ-2" value="" style="shape=mxgraph.signs.people.woman_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="DoQxJISchDC_hIf_xZmJ-2" value="" style="shape=mxgraph.signs.people.woman_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="310" y="420" width="45" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="DoQxJISchDC_hIf_xZmJ-3" value="" style="shape=mxgraph.signs.people.woman_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="DoQxJISchDC_hIf_xZmJ-3" value="" style="shape=mxgraph.signs.people.woman_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="460" y="420" width="45" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="DoQxJISchDC_hIf_xZmJ-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.user_male;" vertex="1" parent="1">
+        <mxCell id="DoQxJISchDC_hIf_xZmJ-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.user_male;" parent="1" vertex="1">
           <mxGeometry x="170" y="240" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DoQxJISchDC_hIf_xZmJ-5" value="" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="DoQxJISchDC_hIf_xZmJ-5" value="" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="310" y="240" width="37" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="DoQxJISchDC_hIf_xZmJ-6" value="" style="shape=mxgraph.signs.people.man_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="DoQxJISchDC_hIf_xZmJ-6" value="" style="shape=mxgraph.signs.people.man_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="465" y="238" width="36" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="DoQxJISchDC_hIf_xZmJ-7" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.camera;" vertex="1" parent="1">
+        <mxCell id="DoQxJISchDC_hIf_xZmJ-7" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.camera;" parent="1" vertex="1">
           <mxGeometry x="700" y="290" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="DoQxJISchDC_hIf_xZmJ-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/tv_show-128.png" vertex="1" parent="1">
+        <mxCell id="DoQxJISchDC_hIf_xZmJ-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/tv_show-128.png" parent="1" vertex="1">
           <mxGeometry x="870" y="273" width="184" height="184" as="geometry" />
         </mxCell>
-        <mxCell id="DoQxJISchDC_hIf_xZmJ-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bnw/128x128/apps/tv.png" vertex="1" parent="1">
+        <mxCell id="DoQxJISchDC_hIf_xZmJ-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bnw/128x128/apps/tv.png" parent="1" vertex="1">
           <mxGeometry x="181" y="720" width="320" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="DoQxJISchDC_hIf_xZmJ-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/apple-tv-1/512/apple_tv_old-128.png" vertex="1" parent="1">
-          <mxGeometry x="660" y="1421" width="128" height="128" as="geometry" />
+        <mxCell id="DoQxJISchDC_hIf_xZmJ-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/apple-tv-1/512/apple_tv_old-128.png" parent="1" vertex="1">
+          <mxGeometry x="465" y="1310" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="DoQxJISchDC_hIf_xZmJ-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/devices/tv.png;rotation=95;" vertex="1" parent="1">
+        <mxCell id="DoQxJISchDC_hIf_xZmJ-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/devices/tv.png;rotation=95;" parent="1" vertex="1">
           <mxGeometry x="1120" y="720" width="320" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="DoQxJISchDC_hIf_xZmJ-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/MediaPack_ICON/128/TV.png" vertex="1" parent="1">
+        <mxCell id="DoQxJISchDC_hIf_xZmJ-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/MediaPack_ICON/128/TV.png" parent="1" vertex="1">
           <mxGeometry x="660" y="680" width="330" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="DoQxJISchDC_hIf_xZmJ-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/whsr-january-flaticon-set/128/television.png" vertex="1" parent="1">
+        <mxCell id="DoQxJISchDC_hIf_xZmJ-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/whsr-january-flaticon-set/128/television.png" parent="1" vertex="1">
           <mxGeometry x="980" y="1270" width="430" height="430" as="geometry" />
         </mxCell>
       </root>
