@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T08:59:15.369Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="n8VBWfqgJ011grXI4Gxh" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T12:11:47.699Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="NAd-bCG11VF0cGE6-S5B" version="21.2.1" type="github">
   <diagram name="Страница 1" id="q1l9R9yOh7JBe0faKamn">
     <mxGraphModel dx="1054" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -881,7 +881,7 @@
           <mxGeometry x="597.48" y="539.9300000000001" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="MWshiME6rKWV4LbC__Ov-325" value="&lt;h1&gt;Martin 2022 proto.&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Общая схема универсального модуля зарядки (4) и общая схема заряжаемого модуля(5&lt;/font&gt;)&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="842" y="10" width="208" height="170" as="geometry" />
+          <mxGeometry x="842" y="10" width="218" height="170" as="geometry" />
         </mxCell>
         <mxCell id="MWshiME6rKWV4LbC__Ov-326" value="ver: proto2304" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="720" y="10" width="100" height="30" as="geometry" />
@@ -889,10 +889,10 @@
         <mxCell id="MWshiME6rKWV4LbC__Ov-327" value="ver: proto2304" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1542" y="10" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nwGlgBzPXkeHs2H_V2Eb-2" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Модуль зарядки&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;В полнофункциональной версии: &lt;/b&gt;&lt;br&gt;диапазон напряжения заряда должен быть от 8.4В до 25.2В и регулироваться/переключаться через I2C. &lt;br&gt;нужные значения между которыми требуется переключаться в 1-ой версии: 8.4В 12.6В 16.8В 25.2В.&lt;br&gt;Также в 1-ой версии потребуется что бы по запросу ток зарядки ограничивался в дипазоне от 2А до 15А.&lt;/p&gt;&lt;p&gt;&lt;b&gt;В прототипе&lt;/b&gt;:&lt;br&gt; 1. Единственное значение напряжения зарядки 12.6В&lt;br&gt;2. ток ограничения желательно сделать регулируемым. &lt;br&gt;&amp;nbsp; (Пофиг как...если и это сложно то просто 5А.)&lt;br&gt;3. &lt;b&gt;i2C&lt;/b&gt; - АмВо-метр&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nwGlgBzPXkeHs2H_V2Eb-2" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Модуль зарядки&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;В полнофункциональной версии: &lt;/b&gt;&lt;br&gt;диапазон напряжения заряда должен быть от 8.4В до 25.2В и регулироваться/переключаться через I2C. &lt;br&gt;нужные значения между которыми требуется переключаться в 1-ой версии: 8.4В 12.6В 16.8В 25.2В.&lt;br&gt;Также в 1-ой версии потребуется что бы по запросу ток зарядки ограничивался в дипазоне от 2А до 15А.&lt;/p&gt;&lt;p&gt;&lt;b&gt;В прототипе&lt;/b&gt;:&lt;br&gt; 1. Единственное значение напряжения зарядки 12.6В&lt;br&gt;2. ток ограничения желательно сделать регулируемым. &lt;br&gt;&amp;nbsp; (Пофиг как...если и это сложно то просто 5А.)&lt;br&gt;3. &lt;b&gt;i2C&lt;/b&gt; - АмВо-метр&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1270" y="40" width="350" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="nwGlgBzPXkeHs2H_V2Eb-4" value="&lt;h1&gt;Батарея&lt;br&gt;&lt;/h1&gt;&lt;p&gt;В &lt;b&gt;прототипе&lt;/b&gt; это:&lt;br&gt;1. Только три элемента -- коммутатор, балансировщик, батарея.&lt;br&gt;2. комутатор -- ручной тумблер. (заряд/разряд)&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nwGlgBzPXkeHs2H_V2Eb-4" value="&lt;h1&gt;Батарея&lt;br&gt;&lt;/h1&gt;&lt;p&gt;В &lt;b&gt;прототипе&lt;/b&gt; это:&lt;br&gt;1. Только три элемента -- коммутатор, балансировщик, батарея.&lt;br&gt;2. комутатор -- ручной тумблер. (заряд/разряд)&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1259" y="1049" width="380" height="101" as="geometry" />
         </mxCell>
       </root>
