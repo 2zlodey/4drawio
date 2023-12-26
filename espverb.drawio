@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T13:27:16.233Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="BLtrBby8RKy1fttC25xS" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T13:30:02.227Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Rz74PzZIylK5oo2rftSv" version="21.6.5" type="github">
   <diagram name="Страница 1" id="kYLUtjouHELDo8i-F8S-">
-    <mxGraphModel dx="1184" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2095" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="183.5" y="919" width="135.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="blg7EuB-wjPVDd9vj1YW-18" value="Pronomberes para personas" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="230" width="160" height="180" as="geometry" />
+          <mxGeometry x="920" y="505" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="blg7EuB-wjPVDd9vj1YW-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="blg7EuB-wjPVDd9vj1YW-18">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -662,7 +662,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="blg7EuB-wjPVDd9vj1YW-610" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="379" y="525" width="426" height="215" as="geometry" />
+          <mxGeometry x="381" y="460" width="426" height="215" as="geometry" />
         </mxCell>
         <mxCell id="blg7EuB-wjPVDd9vj1YW-609" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="blg7EuB-wjPVDd9vj1YW-610">
           <mxGeometry width="420" height="215" as="geometry" />
