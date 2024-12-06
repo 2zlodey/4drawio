@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="25.0.1">
   <diagram name="Страница — 1" id="I5FzEB9FDbfekqqS_yuY">
-    <mxGraphModel dx="4247" dy="4238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3867" dy="4027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1879,6 +1879,59 @@
         </mxCell>
         <mxCell id="VqBcvnje3LFumHh0p7NW-165" value="Корпус" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="180.5" y="-1820" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-1" value="SDR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-1680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-2" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-1680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="-1720" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_1;" vertex="1" parent="1">
+          <mxGeometry x="1257" y="-1720" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CScN689r7qLWVcn1090q-2" target="CScN689r7qLWVcn1090q-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="-1570" as="sourcePoint" />
+            <mxPoint x="1190" y="-1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="CScN689r7qLWVcn1090q-7" target="CScN689r7qLWVcn1090q-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="-1482.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-7" value="SDR&lt;br&gt;&amp;lt;1GHz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-1503" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-8" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-1480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CScN689r7qLWVcn1090q-8" target="CScN689r7qLWVcn1090q-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="-1370" as="sourcePoint" />
+            <mxPoint x="1190" y="-1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-10" value="SDR&lt;br&gt;1-6GHz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-1457" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.01;exitY=0.551;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CScN689r7qLWVcn1090q-8" target="CScN689r7qLWVcn1090q-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="-1450" as="sourcePoint" />
+            <mxPoint x="1210" y="-1473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-12" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_1;" vertex="1" parent="1">
+          <mxGeometry x="1304" y="-1560" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-13" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_1;" vertex="1" parent="1">
+          <mxGeometry x="1334" y="-1497" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="CScN689r7qLWVcn1090q-10" target="CScN689r7qLWVcn1090q-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
