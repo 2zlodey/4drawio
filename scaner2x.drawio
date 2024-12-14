@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="25.0.1">
   <diagram name="Страница — 1" id="I5FzEB9FDbfekqqS_yuY">
-    <mxGraphModel dx="1770" dy="2862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1804" dy="2881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1933,26 +1933,44 @@
         <mxCell id="CScN689r7qLWVcn1090q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="CScN689r7qLWVcn1090q-10" target="CScN689r7qLWVcn1090q-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CScN689r7qLWVcn1090q-15" target="CScN689r7qLWVcn1090q-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CScN689r7qLWVcn1090q-15" value="Детекция" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1121" y="40" width="119" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CScN689r7qLWVcn1090q-16" value="Проверка на наличие в текущей базе активных объектов" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="200" width="120" height="40" as="geometry" />
+        <mxCell id="CScN689r7qLWVcn1090q-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CScN689r7qLWVcn1090q-18" target="CScN689r7qLWVcn1090q-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CScN689r7qLWVcn1090q-18" value="Измерение мощности" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1121" y="120" width="119" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CScN689r7qLWVcn1090q-19" value="Определение направления источника" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="CScN689r7qLWVcn1090q-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CScN689r7qLWVcn1090q-19" target="CScN689r7qLWVcn1090q-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-19" value="Определение направления источника" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="280" width="119" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CScN689r7qLWVcn1090q-20" value="Определение типа модуляции" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="CScN689r7qLWVcn1090q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CScN689r7qLWVcn1090q-20" target="CScN689r7qLWVcn1090q-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-20" value="Определение типа модуляции" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="360" width="119" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CScN689r7qLWVcn1090q-21" value="Демодуляция" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="CScN689r7qLWVcn1090q-21" value="Демодуляция" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1120.5" y="440" width="119" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CScN689r7qLWVcn1090q-22" value="Декодирование" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="CScN689r7qLWVcn1090q-22" value="Декодирование" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="520" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CScN689r7qLWVcn1090q-26" target="CScN689r7qLWVcn1090q-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-26" value="&lt;font&gt;Проверка на наличие в текущей базе активных объектов&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1120.5" y="199" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CScN689r7qLWVcn1090q-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.519;entryY=-0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CScN689r7qLWVcn1090q-21" target="CScN689r7qLWVcn1090q-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
