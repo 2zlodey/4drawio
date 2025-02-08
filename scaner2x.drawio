@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.7">
   <diagram name="Страница — 1" id="I5FzEB9FDbfekqqS_yuY">
-    <mxGraphModel dx="2017" dy="4168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3107" dy="4774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3021,7 +3021,7 @@
           <mxGeometry x="1842.2992800000002" y="-2980.1907781818186" width="19.870399999999997" height="31.41818181818182" as="geometry" />
         </mxCell>
         <mxCell id="pf4CleojP-FPINoIs7TK-235" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/pickup-128.png;imageBackground=none;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="1857.3100000000002" y="-2997.33" width="65.68727272727271" height="65.68727272727271" as="geometry" />
+          <mxGeometry x="1842.3000000000002" y="-2980.19" width="65.68727272727271" height="65.68727272727271" as="geometry" />
         </mxCell>
         <mxCell id="pf4CleojP-FPINoIs7TK-237" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="1724.9292800000003" y="-2958.9407781818186" width="19.870399999999997" height="31.41818181818182" as="geometry" />
@@ -3033,7 +3033,7 @@
           <mxGeometry x="2190.6192800000003" y="-2958.7507781818185" width="19.870399999999997" height="31.41818181818182" as="geometry" />
         </mxCell>
         <mxCell id="pf4CleojP-FPINoIs7TK-240" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/pickup-128.png;imageBackground=none;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="2160" y="-2997.33" width="65.68727272727271" height="65.68727272727271" as="geometry" />
+          <mxGeometry x="2188" y="-2958.94" width="65.68727272727271" height="65.68727272727271" as="geometry" />
         </mxCell>
         <mxCell id="pf4CleojP-FPINoIs7TK-243" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=1;dashed=1;spacingTop=3;image=img/lib/active_directory/windows_server.svg;imageBorder=default;" vertex="1" parent="1">
           <mxGeometry x="1657.75" y="-2730" width="41" height="50" as="geometry" />
