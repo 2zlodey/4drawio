@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.9">
   <diagram id="k7Rn1JQ0faa2xJi0YRyc" name="Page-1">
-    <mxGraphModel dx="2318" dy="1484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2892" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -995,6 +995,21 @@
         </mxCell>
         <mxCell id="_k-AiD9HPKlKGbE4StpJ-155" parent="_k-AiD9HPKlKGbE4StpJ-153" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-180;" value="+" vertex="1">
           <mxGeometry height="30" width="60" x="86" as="geometry" />
+        </mxCell>
+        <mxCell id="_k-AiD9HPKlKGbE4StpJ-156" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Encoder" vertex="1">
+          <mxGeometry height="30" width="60" x="728.5" y="-376.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_k-AiD9HPKlKGbE4StpJ-157" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Encoder" vertex="1">
+          <mxGeometry height="30" width="60" x="729" y="-526" as="geometry" />
+        </mxCell>
+        <mxCell id="_k-AiD9HPKlKGbE4StpJ-160" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="102" width="77" x="158" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="_k-AiD9HPKlKGbE4StpJ-158" parent="_k-AiD9HPKlKGbE4StpJ-160" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.summation_point;" value="" vertex="1">
+          <mxGeometry height="77" width="77" as="geometry" />
+        </mxCell>
+        <mxCell id="_k-AiD9HPKlKGbE4StpJ-159" parent="_k-AiD9HPKlKGbE4StpJ-160" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Inclinometr&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="10" y="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
